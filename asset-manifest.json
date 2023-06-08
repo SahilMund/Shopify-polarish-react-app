@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shopify-polarish-react-app/static/css/main.d169fa87.css",
+    "main.js": "/Shopify-polarish-react-app/static/js/main.ce61913f.js",
+    "index.html": "/Shopify-polarish-react-app/index.html",
+    "main.d169fa87.css.map": "/Shopify-polarish-react-app/static/css/main.d169fa87.css.map",
+    "main.ce61913f.js.map": "/Shopify-polarish-react-app/static/js/main.ce61913f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d169fa87.css",
+    "static/js/main.ce61913f.js"
+  ]
+}
